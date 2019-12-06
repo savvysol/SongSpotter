@@ -1,0 +1,101 @@
+name,artist,album,acousticness,danceability,energy,speechiness,valence
+God's Plan,Drake,Scorpion,0.0332,0.754,0.449,0.109,0.357
+SAD!,XXXTENTACION,?,0.258,0.74,0.613,0.145,0.473
+rockstar (feat. 21 Savage),Post Malone,beerbongs & bentleys,0.117,0.587,0.535,0.0898,0.14
+Psycho (feat. Ty Dolla $ign),Post Malone,beerbongs & bentleys,0.58,0.739,0.559,0.117,0.439
+In My Feelings,Drake,Scorpion,0.0589,0.835,0.626,0.125,0.35
+Better Now,Post Malone,beerbongs & bentleys,0.354,0.68,0.563,0.0454,0.374
+I Like It,Cardi B,Invasion of Privacy,0.099,0.816,0.726,0.129,0.65
+One Kiss (with Dua Lipa),Calvin Harris,One Kiss (with Dua Lipa),0.037,0.791,0.862,0.11,0.592
+IDGAF,Dua Lipa,Dua Lipa (Deluxe),0.0403,0.836,0.544,0.0943,0.51
+FRIENDS,Marshmello,FRIENDS,0.205,0.626,0.88,0.0504,0.534
+Havana,Camila Cabello,Camila,0.184,0.765,0.523,0.03,0.394
+Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,0.349,0.511,0.566,0.2,0.218
+Nice For What,Drake,Scorpion,0.0891,0.586,0.909,0.0705,0.757
+Girls Like You (feat. Cardi B),Maroon 5,Red Pill Blues (Deluxe),0.568,0.851,0.541,0.0505,0.448
+The Middle,Zedd,The Middle,0.171,0.753,0.657,0.0449,0.437
+All The Stars (with SZA),Kendrick Lamar,Black Panther The Album Music From And Inspired By,0.0605,0.698,0.633,0.0597,0.552
+no tears left to cry,Ariana Grande,Sweetener,0.04,0.699,0.713,0.0594,0.354
+X,Nicky Jam,X,0.0364,0.595,0.773,0.0549,0.711
+Moonlight,XXXTENTACION,?,0.556,0.921,0.537,0.0804,0.711
+Look Alive (feat. Drake),BlocBoy JB,Look Alive (feat. Drake),0.00104,0.922,0.581,0.27,0.595
+"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",0.194,0.653,0.809,0.0474,0.55
+Te Boté - Remix,Nio Garcia,Te Boté (Remix),0.542,0.903,0.675,0.214,0.442
+Mine,Bazzi,COSMIC,0.0161,0.71,0.789,0.0722,0.717
+Youngblood,5 Seconds of Summer,Youngblood (Deluxe),0.0169,0.596,0.854,0.463,0.152
+New Rules,Dua Lipa,Dua Lipa (Complete Edition),0.00261,0.762,0.7,0.0694,0.608
+Shape of You,Ed Sheeran,÷ (Deluxe),0.581,0.825,0.652,0.0802,0.931
+Love Lies (with Normani),Khalid,Love Lies (with Normani),0.0956,0.708,0.648,0.0449,0.338
+Meant to Be (feat. Florida Georgia Line),Bebe Rexha,Expectations,0.0476,0.642,0.772,0.0848,0.589
+Jocelyn Flores,XXXTENTACION,17,0.469,0.872,0.391,0.242,0.437
+Perfect,Ed Sheeran,÷ (Deluxe),0.163,0.599,0.448,0.0232,0.168
+Taste (feat. Offset),Tyga,Taste (feat. Offset),0.0236,0.884,0.559,0.12,0.342
+Solo (feat. Demi Lovato),Clean Bandit,Solo (feat. Demi Lovato),0.0441,0.737,0.636,0.0437,0.565
+I Fall Apart,Post Malone,Stoney (Deluxe),0.0689,0.556,0.538,0.0382,0.291
+Nevermind,Dennis Lloyd,Nevermind,0.156,0.592,0.691,0.196,0.0796
+Échame La Culpa,Luis Fonsi,Échame La Culpa,0.0328,0.726,0.889,0.0429,0.649
+Eastside (with Halsey & Khalid),benny blanco,Eastside (with Halsey & Khalid),0.555,0.56,0.68,0.321,0.319
+Never Be the Same,Camila Cabello,Camila,0.181,0.637,0.713,0.0747,0.243
+Wolves,Selena Gomez,Wolves,0.129,0.72,0.807,0.0432,0.305
+changes,XXXTENTACION,?,0.883,0.669,0.308,0.029,0.52
+In My Mind,Dynoro,In My Mind,0.176,0.694,0.77,0.149,0.163
+River (feat. Ed Sheeran),Eminem,Revival,0.142,0.748,0.749,0.516,0.659
+Dura,Daddy Yankee,Dura,0.183,0.791,0.848,0.0506,0.828
+SICKO MODE,Travis Scott,ASTROWORLD,0.00513,0.834,0.73,0.222,0.446
+Thunder,Imagine Dragons,Evolve,0.00671,0.605,0.822,0.0438,0.288
+Me Niego,Reik,Me Niego,0.0543,0.777,0.779,0.0972,0.768
+Jackie Chan,Tiësto,Jackie Chan,0.374,0.747,0.834,0.045,0.687
+Finesse (Remix) [feat. Cardi B],Bruno Mars,Finesse (Remix) [feat. Cardi B],0.0185,0.704,0.859,0.0996,0.926
+Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,Back To You (From 13 Reasons Why – Season 2 Soundtrack),0.0945,0.601,0.724,0.0486,0.508
+Let You Down,NF,Perception,0.298,0.656,0.721,0.122,0.468
+Call Out My Name,The Weeknd,"My Dear Melancholy,",0.218,0.489,0.598,0.036,0.172
+Ric Flair Drip (& Metro Boomin),Offset,Without Warning,0.149,0.88,0.428,0.206,0.333
+Happier,Marshmello,Happier,0.191,0.687,0.792,0.0452,0.671
+Too Good At Goodbyes,Sam Smith,The Thrill Of It All (Special Edition),0.652,0.698,0.375,0.0491,0.534
+Freaky Friday (feat. Chris Brown),Lil Dicky,Freaky Friday (feat. Chris Brown),0.147,0.755,0.599,0.224,0.755
+Believer,Imagine Dragons,Evolve,0.0622,0.776,0.78,0.128,0.666
+FEFE (feat. Nicki Minaj & Murda Beatz),6ix9ine,FEFE (feat. Nicki Minaj & Murda Beatz),0.088,0.931,0.387,0.412,0.376
+Rise,Jonas Blue,Blue,0.327,0.687,0.785,0.0333,0.655
+Body (feat. brando),Loud Luxury,Body (feat. brando),0.0476,0.752,0.764,0.038,0.582
+XO TOUR Llif3,Lil Uzi Vert,Luv Is Rage 2,0.00264,0.732,0.75,0.231,0.401
+Sin Pijama,Becky G,Sin Pijama,0.354,0.791,0.745,0.0464,0.82
+2002,Anne-Marie,Speak Your Mind (Deluxe),0.0372,0.697,0.683,0.117,0.603
+Nonstop,Drake,Scorpion,0.0164,0.912,0.412,0.124,0.422
+Fuck Love (feat. Trippie Redd),XXXTENTACION,17,0.0172,0.797,0.533,0.0412,0.329
+In My Blood,Shawn Mendes,Shawn Mendes,0.0573,0.622,0.712,0.066,0.487
+Silence,Marshmello,Silence,0.256,0.52,0.761,0.0853,0.286
+God is a woman,Ariana Grande,Sweetener,0.0233,0.602,0.658,0.0558,0.268
+Déjala que vuelva (feat. Manuel Turizo),Piso 21,Ubuntu,0.0482,0.681,0.788,0.0785,0.839
+Flames,David Guetta,7,0.0817,0.631,0.649,0.0385,0.421
+What Lovers Do,Maroon 5,Red Pill Blues (Deluxe),0.0788,0.799,0.597,0.0611,0.419
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",0.153,0.841,0.798,0.229,0.591
+"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",0.0337,0.663,0.708,0.0473,0.742
+Feel It Still,Portugal. The Man,Woodstock,0.0417,0.801,0.795,0.0504,0.754
+Pray For Me (with Kendrick Lamar),The Weeknd,Black Panther The Album Music From And Inspired By,0.0762,0.735,0.677,0.093,0.188
+Walk It Talk It,Migos,Culture II,0.0739,0.909,0.628,0.201,0.406
+Him & I (with Halsey),G-Eazy,The Beautiful & Damned,0.0534,0.589,0.731,0.0868,0.191
+Candy Paint,Post Malone,beerbongs & bentleys,0.627,0.67,0.654,0.153,0.438
+Congratulations,Post Malone,Stoney (Deluxe),0.215,0.63,0.804,0.0363,0.492
+"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofia Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",0.165,0.792,0.895,0.0589,0.794
+Criminal,Natti Natasha,Criminal,0.03,0.814,0.813,0.0561,0.839
+Plug Walk,Rich The Kid,The World Is Yours,0.202,0.876,0.519,0.143,0.158
+lovely (with Khalid),Billie Eilish,lovely (with Khalid),0.934,0.351,0.296,0.0333,0.12
+Stir Fry,Migos,Culture II,0.00299,0.815,0.816,0.269,0.498
+HUMBLE.,Kendrick Lamar,DAMN.,0.000282,0.908,0.621,0.102,0.421
+Vaina Loca,Ozuna,Aura,0.315,0.754,0.805,0.0752,0.555
+Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,Perfect Duet (Ed Sheeran & Beyoncé),0.779,0.587,0.299,0.0263,0.356
+Corazón (feat. Nego do Borel),Maluma,F.A.M.E.,0.328,0.722,0.738,0.247,0.748
+Young Dumb & Broke,Khalid,American Teen,0.199,0.798,0.539,0.0421,0.394
+Síguelo Bailando,Ozuna,Odisea,0.165,0.855,0.664,0.0607,0.626
+Downtown,Anitta,Downtown,0.18,0.775,0.679,0.135,0.619
+Bella,Wolfine,Bella,0.128,0.909,0.493,0.0735,0.844
+Promises (with Sam Smith),Calvin Harris,Promises (with Sam Smith),0.0119,0.781,0.768,0.0394,0.486
+Yes Indeed,Lil Baby,Harder Than Ever,0.035,0.964,0.346,0.53,0.562
+I Like Me Better,Lauv,I met you when I was 18. (the playlist),0.535,0.752,0.505,0.253,0.419
+This Is Me,Keala Settle,This Is Me,0.00583,0.284,0.704,0.186,0.1
+Everybody Dies In Their Nightmares,XXXTENTACION,17,0.847,0.734,0.57,0.133,0.689
+Rewrite The Stars,Zac Efron,Rewrite The Stars,0.0716,0.684,0.619,0.0386,0.284
+I Miss You (feat. Julia Michaels),Clean Bandit,I Miss You (feat. Julia Michaels),0.245,0.638,0.658,0.0456,0.33
+No Brainer,DJ Khaled,No Brainer,0.0733,0.552,0.76,0.342,0.639
+Dusk Till Dawn - Radio Edit,ZAYN,Dusk Till Dawn (Radio Edit),0.101,0.258,0.437,0.039,0.0967
+Be Alright,Dean Lewis,Be Alright,0.697,0.553,0.586,0.0362,0.443

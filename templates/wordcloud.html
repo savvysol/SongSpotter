@@ -1,0 +1,44 @@
+<html>
+  <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Genres</title>
+        <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+     -->
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+        <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+        <!-- <script src="cloud.js"></script> -->
+  </head>
+  <body>
+        <div class="container">
+            <div class="jumbotron" style="text-align: center">
+                    <h1>Song Spotter</h1>
+                <p>Spotify User: {{ songs[0].user.display_name }}</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row"> 
+                <div class="col-sm-12"> 
+                        <p>
+                        <a class="btn btn-primary btn-lg" href="/" role="button">Home</a>
+                        <a class="btn btn-primary btn-lg" href="/bubble" role="button">Artists</a>
+                        <a class="btn btn-primary btn-lg" href="/swarm" role="button">Features</a></a>              
+                        <a class="btn btn-primary btn-lg" href="/popularity" role="button">Popularity</a>
+                        <a class="btn btn-primary btn-lg disabled" href="/" role="button">Genres</a>
+                        <a class="btn btn-secondary btn-lg disabled" href="/gotToken" role="button">Add Me!</a></p>
+                </div>
+            </div>        
+            <div class="row"> 
+                <div class="col-sm-12" id="chart"> 
+                <!-- <div ></div> -->
+                <script src="../static/js/cloud.js"></script>
+                <script  src="../static/js/script3.js"></script>
+                </div>
+            </div>
+        </div>
+  </body>
+</html>

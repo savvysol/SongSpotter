@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bubble</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style2.css') }}">
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+</head>
+
+<body>
+        <div class="container">
+                <div class="jumbotron" style="text-align: center">
+                        <h1>Song Spotter</h1>
+                    <p>Spotify User: {{ songs[0].user.display_name }}</p>
+            
+                </div>
+            </div>
+            <div class="container">
+                <div class="row"> 
+                    <div class="col-sm-12"> 
+                            <p>
+                            <a class="btn btn-primary btn-lg" href="/" role="button">Home</a>
+                            <a class="btn btn-primary btn-lg disabled" href="/bubble" role="button">Artists</a>
+                            <a class="btn btn-primary btn-lg" href="/swarm" role="button">Features</a></a>              
+                            <a class="btn btn-primary btn-lg" href="/popularity" role="button">Popularity</a>
+                            <a class="btn btn-primary btn-lg " href="/cloud" role="button">Genres</a>
+                            <a class="btn btn-secondary btn-lg disabled" href="/gotToken" role="button">Add Me!</a></p>
+                    </div>
+                </div>
+                <div class="row"> 
+                    <div class="col-sm-12"> 
+                    <style>
+                        .bubble {
+                            border-radius: 50%;
+                        }
+                        text{
+                        background:#000000;
+                        color:#fff;
+                        text-shadow:0px 0px 10px #fff, 0px 0px 10px #fff;
+                        font-size:12px;
+                        text-align:center;
+                        }
+                    </style>
+                        <div id="plot2"></div>  
+                        <script src="../static/js/app5.js"></script>
+                    </div>
+                </div>
+            </div>
+
+
+</body>
+</html>
